@@ -1,0 +1,6 @@
+BEFORE WORKING WITH DOCKER OR WSL ENSURE 
+
+		VBS 
+
+IS TURNED ON!!!!!!!!!!!!!!!
+
